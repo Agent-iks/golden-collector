@@ -1,2 +1,4 @@
 pandas
-ccxt
+numpy
+aiohttp
+python-binance
